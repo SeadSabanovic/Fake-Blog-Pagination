@@ -1,5 +1,5 @@
 
-#  Material UI Photo Album
+#  Fake React.js Blog With Pagination
 
 ### Dependencies:
 - [Axios](https://www.npmjs.com/package/react-axios)
